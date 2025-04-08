@@ -15,7 +15,7 @@ Example:
 
 ###  2. During Development – AI-Powered Workflow
 
-AI played a huge role in helping me:
+AI helped me with:
 
 -  Architect the Go + Next.js stack efficiently  
 -  Troubleshoot deployment and Docker setup issues  
