@@ -2,7 +2,8 @@
 # 🧠 Zocket – AI-Based Task Management System
 
 A productivity-focused, AI-powered task manager with real-time updates using WebSockets.
-
+Frontend: https://zocket-frontend-lyart.vercel.app/login
+Backend URL: https://zocket-backend-y4xz.onrender.com
 Built with:
 
 - ⚙️ Go (Gin) Backend
