@@ -39,10 +39,6 @@ go mod tidy
 
 ### 2. Create `.env` file
 
-```bash
-cp .env.example .env
-```
-
 Fill in the values for:
 
 - `SUPABASE_URL`
@@ -69,14 +65,8 @@ cd frontend
 npm install
 ```
 
-### 2. Create `.env.local`
-
-```bash
-cp .env.local.example .env.local
-```
 
 Update:
-
 ```
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8080
 ```
