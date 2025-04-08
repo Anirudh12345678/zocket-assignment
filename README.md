@@ -13,15 +13,6 @@ Built with:
 
 ---
 
-## 📁 Project Structure
-
-```
-zocket/
-├── backend/       # Golang API server
-├── frontend/      # Next.js App frontend
-└── README.md
-```
-
 ---
 
 ## 🚀 Getting Started Locally
