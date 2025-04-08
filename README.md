@@ -1,7 +1,3 @@
-Sure! Here's a clean and valid `README.md` you can copy-paste directly into your repo:
-
----
-
 ```markdown
 # 🧠 Zocket – AI-Based Task Management System
 
@@ -144,19 +140,3 @@ EXPOSE 8080
 CMD ["./main"]
 ```
 
----
-
-## 🤝 Contributing
-
-Feel free to fork, clone, and submit a pull request 🚀
-
----
-
-## 📄 License
-
-MIT
-```
-
----
-
-Let me know if you want me to generate `.env.example` files or Supabase table schema next!
