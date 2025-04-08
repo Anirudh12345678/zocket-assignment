@@ -1,24 +1,24 @@
 ```markdown
-# 🧠 Zocket – AI-Based Task Management System
+#  Zocket – AI-Based Task Management System
 
 A productivity-focused, AI-powered task manager with real-time updates using WebSockets.
 Frontend: https://zocket-frontend-lyart.vercel.app/login
 Backend URL: https://zocket-backend-y4xz.onrender.com
 Built with:
 
-- ⚙️ Go (Gin) Backend
-- 💻 Next.js Frontend (App Router)
-- 🧠 OpenAI Integration
-- 💾 Supabase PostgreSQL
-- 🔄 Real-time sync via WebSockets
+-  Go (Gin) Backend
+-  Next.js Frontend (App Router)
+-  OpenAI Integration
+-  Supabase PostgreSQL
+-  Real-time sync via WebSockets
 
 ---
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Go `v1.23+`
 - Node.js `v18+`
@@ -28,7 +28,7 @@ Built with:
 
 ---
 
-## ⚙️ Backend Setup (`/backend`)
+##  Backend Setup (`/backend`)
 
 ### 1. Install Go dependencies
 
@@ -60,7 +60,7 @@ The server will start on `http://localhost:8080`
 
 ---
 
-## 💻 Frontend Setup (`/frontend`)
+##  Frontend Setup (`/frontend`)
 
 ### 1. Install frontend dependencies
 
@@ -91,7 +91,7 @@ The frontend will run at `http://localhost:3000`
 
 ---
 
-## 🔄 WebSocket Support
+##  WebSocket Support
 
 Make sure the backend is running. The frontend uses WebSocket for real-time task updates:
 
@@ -102,13 +102,13 @@ const socket = new WebSocket(`${protocol}://localhost:8080/ws/${userId}`);
 
 ---
 
-## 🧠 AI Features
+##  AI Features
 
 The app supports AI-generated task suggestions using OpenAI. Use the **"Get AI Suggestions"** button in the UI to generate smart tasks based on your goals.
 
 ---
 
-## 🐳 Docker Deployment (optional)
+##  Docker Deployment (optional)
 
 Backend Dockerized example:
 
